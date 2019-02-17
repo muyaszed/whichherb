@@ -25,7 +25,7 @@
     "ios": {
       "supportsTablet": true
     },
-    "description": "Using Deep learning to recognise Coriander, Mint or Parsley.",
+    "description": "Using Deep learning to recognise Coriander, Mint or Parsley.\n\nUsing Fast.ai(https://docs.fast.ai/index.html) framework to train and create a deep learning model to recognized between Coriander, Parsley or Mint.\n\nUsing Starlete(https://www.starlette.io/) as the rest API backend and React-native(https://facebook.github.io/react-native/) as the front-end.",
     "githubUrl": "https://github.com/muyaszed/whichherb"
   }
 }
