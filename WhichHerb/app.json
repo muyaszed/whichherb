@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": " ",
+    "name": "WhichHerb",
     "slug": "WhichHerb",
     "privacy": "public",
     "sdkVersion": "32.0.0",
@@ -24,6 +24,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "Using Deep learning to recognise Coriander, Mint or Parsley.",
+    "githubUrl": "https://github.com/muyaszed/whichherb"
   }
 }
